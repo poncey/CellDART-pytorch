@@ -1,0 +1,6 @@
+.vscode
+data/*
+!data/README.md
+download
+examples/old
+*/__pycache__
