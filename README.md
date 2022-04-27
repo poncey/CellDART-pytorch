@@ -1,4 +1,4 @@
-# cellDART-pytorch
+# CellDART-pytorch
 
 An unofficial implementation of 'CellDART: cell type inference by domain adaptation of single-cell and spatial transcriptomics data' ([link](https://github.com/mexchy1000/CellDART)) based on pytorch-lightning.
 
